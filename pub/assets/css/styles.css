@@ -1,0 +1,140 @@
+/* PRIMARY COLOR */
+:root {
+    --primary-color: #5a1abf;
+  }
+  
+  /* NAVIGATION BAR */
+  #header {
+    background-color: #5a1abf;
+    color: #fff;
+  }
+  
+  #header .nav-menu ul li a {
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  #header .nav-menu ul li a:hover,
+  #header .nav-menu ul li a.active-link {
+    color: #fff;
+  }
+  
+  #header .nav-menu-btn i {
+    color: #fff;
+  }
+  
+  #header .nav-button button {
+    background-color: #fff;
+    color: #5a1abf;
+    border: 1px solid #5a1abf;
+  }
+  
+  #header .nav-button button:hover {
+    background-color: #5a1abf;
+    color: #fff;
+  }
+  
+  /* FEATURED BOX */
+  .featured-box {
+    background-color: #fff;
+    color: #5a1abf;
+  }
+  
+  .featured-box .featured-text-card span {
+    background-color: #5a1abf;
+    color: #fff;
+  }
+  
+  .featured-box .featured-text-btn button {
+    background-color: #5a1abf;
+    color: #fff;
+    border: 1px solid #5a1abf;
+  }
+  
+  .featured-box .featured-text-btn button:hover {
+    background-color: #fff;
+    color: #5a1abf;
+  }
+  
+  .featured-box .social_icons a {
+    color: #5a1abf;
+  }
+  
+  .featured-box .social_icons a:hover {
+    color: #fff;
+  }
+  
+  /* ABOUT BOX */
+  .section {
+    background-color: #fff;
+    color: #5a1abf;
+  }
+  
+  .section .skills-box {
+    background-color: #5a1abf;
+    color: #fff;
+  }
+  
+  .section .skills-box .skills-header {
+    color: #fff;
+  }
+  
+  .section .skills-box .skills-list span {
+    color: #fff;
+  }
+  
+  /* PROJECT BOX */
+  .project-container .project-box {
+    background-color: #5a1abf;
+    color: #fff;
+  }
+  
+  /* CONTACT BOX */
+  .contact-info h2,
+  .contact-info p {
+    color: #5a1abf;
+  }
+  
+  .contact-form .form-inputs input,
+  .contact-form .text-area textarea {
+    border-color: #5a1abf;
+  }
+  
+  .contact-form .form-button button {
+    background-color: #5a1abf;
+    color: #fff;
+    border: 1px solid #5a1abf;
+  }
+  
+  .contact-form .form-button button:hover {
+    background-color: #fff;
+    color: #5a1abf;
+  }
+  
+  /* FOOTER */
+  footer {
+    background-color: #5a1abf;
+    color: #fff;
+  }
+  
+  footer .footer-menu ul li a {
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  footer .footer-menu ul li a:hover {
+    color: #fff;
+  }
+  
+  footer .footer-social-icons a {
+    color: #fff;
+  }
+  
+  footer .footer-social-icons a:hover {
+    color: #5a1abf;
+  }
+  
+  footer .bottom-footer p {
+    color: #fff;
+  }
+  
